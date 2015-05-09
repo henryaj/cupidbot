@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Cupidbot::VERSION
   spec.authors       = ["Henry Stanley"]
   spec.email         = ["henry@henrystanley.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "OkCupid 'API' in a gem"
+  spec.description   = "A gem for interacting with OkCupid."
+  spec.homepage      = "https://github.com/henryaj/cupidbot"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
