@@ -1,5 +1,5 @@
-require "cupidbot/version"
-
-module Cupidbot
-  # Your code goes here...
+class Cupidbot
+  def initialize
+    @poo = "hi"
+  end
 end
